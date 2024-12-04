@@ -176,3 +176,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Dec2024 11:20:54.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Antonio0l0's game mode to Survival Mode
 [04Dec2024 11:23:31.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 was blown up by Creeper
 [04Dec2024 11:23:31.092] [Server thread/INFO] [tombstone/]: The player N1L0X97 has successfully been saved
+[04Dec2024 11:25:32.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: N1L0X97 was kicked for floating too long!
+[04Dec2024 11:25:32.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: N1L0X97 lost connection: Flying is not enabled on this server
+[04Dec2024 11:25:32.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 left the game
+[04Dec2024 11:25:39.419] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: N1L0X97[/127.32.182.78:57181] logged in with entity id 13092 at (68.98187650407264, 66.28549238931866, -426.53918064277735)
+[04Dec2024 11:25:39.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 joined the game
+[04Dec2024 11:26:01.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 has made the advancement [Acquire Hardware]
+[04Dec2024 11:26:05.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 has made the advancement [Isn't It Iron Pick]
+[04Dec2024 11:29:35.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 has made the advancement [Diamonds!]
