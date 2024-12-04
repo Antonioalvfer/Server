@@ -128,3 +128,27 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Dec2024 13:54:07.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Diamonds!]
 [04Dec2024 13:55:00.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Knowledge of Death]
 [04Dec2024 13:55:00.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [A Strange Grave Dust]
+[04Dec2024 13:56:23.240] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio0l0[/127.151.91.220:49841] logged in with entity id 5856 at (216.1796722474991, -22.0, 173.41718338892343)
+[04Dec2024 13:56:23.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 joined the game
+[04Dec2024 13:56:38.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Antonio0l0> alejandro marica
+[04Dec2024 13:58:06.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set own game mode to Creative Mode]
+[04Dec2024 13:58:24.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set own game mode to Survival Mode]
+[04Dec2024 14:08:33.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 has made the advancement [Knowledge of Death]
+[04Dec2024 14:08:33.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 has made the advancement [A Strange Grave Dust]
+[04Dec2024 14:09:07.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 has made the advancement [Ashes 'n Bones]
+[04Dec2024 14:09:53.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Teleported Alex115KLK to Antonio0l0]
+[04Dec2024 14:10:06.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Take Aim]
+[04Dec2024 14:11:44.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Cover Me with Diamonds]
+[04Dec2024 14:12:49.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Birds of a Feather]
+[04Dec2024 14:12:54.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[04Dec2024 14:12:54.906] [Server thread/INFO] [tombstone/]: The player Antonio0l0 has successfully been saved
+[04Dec2024 14:12:58.067] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=50, y=63, z=43}
+[04Dec2024 14:12:58.115] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=50, y=63, z=43}
+[04Dec2024 14:12:58.170] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=50, y=63, z=43}
+[04Dec2024 14:12:58.214] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=51, y=64, z=43}
+[04Dec2024 14:12:58.268] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=51, y=64, z=43}
+[04Dec2024 14:13:17.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=34, y=62, z=30}
+[04Dec2024 14:13:32.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Teleported Antonio0l0 to Alex115KLK]
+[04Dec2024 14:14:32.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Mutual Aid]
+[04Dec2024 14:21:05.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 has made the advancement [Sweet Dreams]
+[04Dec2024 14:22:58.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Sweet Dreams]
