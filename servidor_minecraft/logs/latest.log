@@ -184,3 +184,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Dec2024 11:26:01.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 has made the advancement [Acquire Hardware]
 [04Dec2024 11:26:05.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 has made the advancement [Isn't It Iron Pick]
 [04Dec2024 11:29:35.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 has made the advancement [Diamonds!]
+[04Dec2024 11:36:44.315] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: N1L0X97 lost connection: Disconnected
+[04Dec2024 11:36:44.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 left the game
+[04Dec2024 11:37:17.459] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3564ee8e[id=<null>,name=N1L0X97,properties={},legacy=false] (/127.32.182.78:45265) lost connection: Disconnected
+[04Dec2024 11:37:24.870] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: N1L0X97[/127.32.182.78:46577] logged in with entity id 17148 at (242.79649661919865, 16.0, -454.6465668113363)
+[04Dec2024 11:37:24.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 joined the game
+[04Dec2024 11:38:11.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 was slain by Spider
+[04Dec2024 11:38:11.126] [Server thread/INFO] [tombstone/]: The player N1L0X97 has successfully been saved
+[04Dec2024 11:40:02.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 has made the advancement [Knowledge of Death]
+[04Dec2024 11:40:02.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 has reached the goal [Here They Come]
+[04Dec2024 11:41:04.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 has made the advancement [Cover Me with Diamonds]
+[04Dec2024 11:44:55.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 has made the advancement [Ice Bucket Challenge]
