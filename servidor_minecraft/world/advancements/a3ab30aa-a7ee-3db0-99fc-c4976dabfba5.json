@@ -1280,6 +1280,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2024-12-04 22:30:56 +0000",
+      "apple": "2024-12-05 00:17:12 +0000",
       "bread": "2024-12-04 23:56:39 +0000"
     },
     "done": false
@@ -1731,6 +1732,12 @@
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2024-12-04 23:13:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-05 00:18:58 +0000"
     },
     "done": true
   },
@@ -2583,6 +2590,12 @@
   "securitycraft:recipes/transportation/cherry_security_sea_boat": {
     "criteria": {
       "has_keypad_chest": "2024-12-04 23:37:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-12-05 00:18:58 +0000"
     },
     "done": true
   },
