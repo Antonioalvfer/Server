@@ -212,3 +212,34 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [05Dec2024 00:33:18.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Teleported N1L0X97 to Alex115KLK]
 [05Dec2024 00:35:07.109] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-664, y=65, z=710} BlockPos{x=-664, y=65, z=711}
 [05Dec2024 00:38:45.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-685, y=65, z=712} BlockPos{x=-686, y=65, z=713}
+[05Dec2024 00:45:44.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Ice Bucket Challenge]
+[05Dec2024 00:55:42.869] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-861, y=76, z=595} BlockPos{x=-862, y=76, z=595}
+[05Dec2024 00:55:43.018] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-861, y=76, z=594} BlockPos{x=-861, y=76, z=595}
+[05Dec2024 00:55:43.069] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-861, y=76, z=594} BlockPos{x=-861, y=76, z=595}
+[05Dec2024 00:55:43.118] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-862, y=76, z=594} BlockPos{x=-861, y=76, z=595}
+[05Dec2024 00:55:43.169] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-862, y=76, z=594} BlockPos{x=-861, y=76, z=595}
+[05Dec2024 00:55:43.218] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-862, y=76, z=593} BlockPos{x=-861, y=76, z=595}
+[05Dec2024 00:55:43.269] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-862, y=76, z=593} BlockPos{x=-861, y=76, z=595}
+[05Dec2024 00:55:43.433] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-861, y=76, z=593} BlockPos{x=-862, y=76, z=593}
+[05Dec2024 00:55:43.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-861, y=76, z=593} BlockPos{x=-862, y=76, z=593}
+[05Dec2024 00:55:43.523] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-861, y=76, z=593} BlockPos{x=-862, y=76, z=593}
+[05Dec2024 00:55:43.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-861, y=76, z=593} BlockPos{x=-862, y=76, z=593}
+[05Dec2024 00:55:43.623] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-862, y=76, z=592} BlockPos{x=-862, y=76, z=593}
+[05Dec2024 00:55:43.673] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-862, y=76, z=592} BlockPos{x=-862, y=76, z=593}
+[05Dec2024 00:55:43.975] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-861, y=76, z=591} BlockPos{x=-861, y=76, z=592}
+[05Dec2024 00:55:44.025] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-861, y=76, z=591} BlockPos{x=-861, y=76, z=592}
+[05Dec2024 00:55:44.075] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-862, y=76, z=591} BlockPos{x=-861, y=76, z=592}
+[05Dec2024 00:55:44.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-862, y=76, z=591} BlockPos{x=-861, y=76, z=592}
+[05Dec2024 00:55:44.325] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-861, y=76, z=590} BlockPos{x=-861, y=76, z=591}
+[05Dec2024 00:55:44.376] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-861, y=76, z=590} BlockPos{x=-861, y=76, z=591}
+[05Dec2024 00:55:44.425] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-861, y=76, z=590} BlockPos{x=-861, y=76, z=591}
+[05Dec2024 00:55:44.475] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-862, y=76, z=590} BlockPos{x=-861, y=76, z=591}
+[05Dec2024 00:55:44.526] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-862, y=76, z=590} BlockPos{x=-861, y=76, z=591}
+[05Dec2024 00:58:28.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Teleported Alex115KLK to N1L0X97]
+[05Dec2024 01:00:48.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio0l0 was kicked for floating too long!
+[05Dec2024 01:00:48.505] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio0l0 lost connection: Flying is not enabled on this server
+[05Dec2024 01:00:48.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 left the game
+[05Dec2024 01:01:16.488] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio0l0[/127.151.91.220:37713] logged in with entity id 70352 at (-671.553970748466, 65.00133597911214, 698.4583691857881)
+[05Dec2024 01:01:16.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 joined the game
+[05Dec2024 01:01:19.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Teleported Alex115KLK to N1L0X97]
+[05Dec2024 01:01:53.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Teleported Alex115KLK to N1L0X97]
