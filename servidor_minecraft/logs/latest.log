@@ -87,3 +87,7 @@
 [05Dec2024 19:01:28.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set own game mode to Creative Mode]
 [05Dec2024 19:02:31.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set own game mode to Survival Mode]
 [05Dec2024 19:04:12.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Ol' Betsy]
+[05Dec2024 19:09:16.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has reached the goal [A self-respecting Soul]
+[05Dec2024 19:10:39.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK was shot by Skeleton
+[05Dec2024 19:10:39.770] [Server thread/INFO] [tombstone/]: The player Alex115KLK has successfully been saved
+[05Dec2024 19:18:29.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alex115KLK moved too quickly! 4.868843654448483,1.747796659746271,-8.824777406232101
