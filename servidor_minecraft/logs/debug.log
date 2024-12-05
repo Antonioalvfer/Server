@@ -2343,3 +2343,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05Dec2024 12:48:57.128] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
 [05Dec2024 12:49:05.390] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Dec2024 12:49:05.396] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 12:51:47.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK was doomed to fall by Antonio0l0
+[05Dec2024 12:51:47.324] [Server thread/DEBUG] [tombstone/]: A new grave of the player Alex115KLK was created at position [x:-1093, y:63, z:687, dim:minecraft:overworld]
+[05Dec2024 12:51:47.328] [Server thread/INFO] [tombstone/]: The player Alex115KLK has successfully been saved
+[05Dec2024 12:51:56.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Teleported Alex115KLK to Antonio0l0]
+[05Dec2024 12:54:05.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 12:54:05.392] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 12:59:05.389] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 12:59:05.396] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
