@@ -3147,7 +3147,9 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2024-12-05 14:30:37 +0000",
-      "minecraft:warped_forest": "2024-12-05 14:20:16 +0000"
+      "minecraft:soul_sand_valley": "2024-12-05 19:06:58 +0000",
+      "minecraft:warped_forest": "2024-12-05 14:20:16 +0000",
+      "minecraft:basalt_deltas": "2024-12-05 18:56:41 +0000"
     },
     "done": false
   },
@@ -3361,6 +3363,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-12-05 18:59:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2024-12-05 18:45:32 +0000"
@@ -3454,6 +3462,12 @@
   "minecraft:recipes/decorations/warped_sign": {
     "criteria": {
       "has_planks": "2024-12-05 18:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-05 19:04:12 +0000"
     },
     "done": true
   },
@@ -3586,6 +3600,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2024-12-05 18:43:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-05 18:58:37 +0000"
     },
     "done": true
   },
