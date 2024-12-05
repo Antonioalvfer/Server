@@ -1276,7 +1276,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_mutton": "2024-12-04 22:30:56 +0000"
+      "cooked_mutton": "2024-12-04 22:30:56 +0000",
+      "bread": "2024-12-04 23:56:39 +0000"
     },
     "done": false
   },
@@ -1736,6 +1737,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-04 23:39:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/birch_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2024-12-04 23:37:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2024-12-04 23:12:04 +0000"
@@ -1844,6 +1857,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/transportation/spruce_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2024-12-04 23:37:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_stone_brick_wall": {
     "criteria": {
       "has_block": "2024-12-04 23:33:37 +0000"
@@ -1859,6 +1878,12 @@
   "securitycraft:recipes/redstone/reinforced_stone_pressure_plate": {
     "criteria": {
       "has_block": "2024-12-04 23:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-04 23:39:50 +0000"
     },
     "done": true
   },
@@ -1982,6 +2007,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2024-12-04 23:56:33 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-04 23:30:23 +0000"
@@ -2009,6 +2040,12 @@
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2024-12-04 23:12:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/mangrove_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2024-12-04 23:37:46 +0000"
     },
     "done": true
   },
@@ -2132,6 +2169,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-04 23:56:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2024-12-04 23:11:27 +0000"
@@ -2144,9 +2187,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/transportation/dark_oak_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2024-12-04 23:37:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-04 23:30:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-04 23:56:33 +0000"
     },
     "done": true
   },
@@ -2312,6 +2367,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/transportation/acacia_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2024-12-04 23:37:46 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2024-12-04 23:00:15 +0000"
@@ -2351,6 +2412,12 @@
   "securitycraft:recipes/redstone/reinforced_stone_button": {
     "criteria": {
       "has_block": "2024-12-04 23:32:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/bamboo_security_sea_raft": {
+    "criteria": {
+      "has_keypad_chest": "2024-12-04 23:37:46 +0000"
     },
     "done": true
   },
@@ -2420,6 +2487,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/transportation/cherry_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2024-12-04 23:37:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/block_pocket_manager": {
     "criteria": {
       "has_redstone_block": "2024-12-04 23:27:26 +0000"
@@ -2444,6 +2517,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/transportation/oak_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2024-12-04 23:37:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2024-12-04 23:13:01 +0000"
@@ -2453,6 +2532,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-12-04 23:00:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-04 23:39:50 +0000"
     },
     "done": true
   },
@@ -2735,6 +2820,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2024-12-04 23:11:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/jungle_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2024-12-04 23:37:46 +0000"
     },
     "done": true
   },
