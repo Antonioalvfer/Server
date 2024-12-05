@@ -91,3 +91,5 @@
 [05Dec2024 19:10:39.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK was shot by Skeleton
 [05Dec2024 19:10:39.770] [Server thread/INFO] [tombstone/]: The player Alex115KLK has successfully been saved
 [05Dec2024 19:18:29.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alex115KLK moved too quickly! 4.868843654448483,1.747796659746271,-8.824777406232101
+[05Dec2024 19:21:32.110] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alex115KLK lost connection: Disconnected
+[05Dec2024 19:21:32.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK left the game

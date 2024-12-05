@@ -1693,3 +1693,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05Dec2024 19:18:22.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Dec2024 19:18:22.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Dec2024 19:18:29.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alex115KLK moved too quickly! 4.868843654448483,1.747796659746271,-8.824777406232101
+[05Dec2024 19:21:32.110] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alex115KLK lost connection: Disconnected
+[05Dec2024 19:21:32.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK left the game
+[05Dec2024 19:23:22.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 19:23:22.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 19:28:22.856] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 19:28:22.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
