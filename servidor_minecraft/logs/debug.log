@@ -1654,3 +1654,22 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05Dec2024 18:43:22.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Dec2024 18:43:28.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Those Were the Days]
 [05Dec2024 18:43:59.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [War Pigs]
+[05Dec2024 18:48:22.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 18:48:22.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 18:51:08.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK was slain by Piglin Brute
+[05Dec2024 18:51:08.830] [Server thread/DEBUG] [tombstone/]: A new grave of the player Alex115KLK was created at position [x:-244, y:35, z:372, dim:minecraft:the_nether]
+[05Dec2024 18:51:08.846] [Server thread/INFO] [tombstone/]: The player Alex115KLK has successfully been saved
+[05Dec2024 18:51:22.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has reached the goal [Here They Come]
+[05Dec2024 18:51:25.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has reached the goal [Chain Death]
+[05Dec2024 18:51:25.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK was slain by Piglin Brute
+[05Dec2024 18:51:25.281] [Server thread/INFO] [tombstone/]: The player Alex115KLK has successfully been saved
+[05Dec2024 18:51:51.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set own game mode to Creative Mode]
+[05Dec2024 18:51:59.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has reached the goal [Easy Opening]
+[05Dec2024 18:53:22.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 18:53:22.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 18:53:32.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set own game mode to Survival Mode]
+[05Dec2024 18:53:50.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Gave 30 experience points to Alex115KLK]
+[05Dec2024 18:53:54.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Gave 300 experience points to Alex115KLK]
+[05Dec2024 18:53:57.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Gave 300 experience points to Alex115KLK]
+[05Dec2024 18:53:59.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Gave 300 experience points to Alex115KLK]
+[05Dec2024 18:55:52.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set own game mode to Creative Mode]
