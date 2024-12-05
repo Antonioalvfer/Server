@@ -83,3 +83,24 @@
 [05Dec2024 12:27:59.568] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio0l0 lost connection: Disconnected
 [05Dec2024 12:27:59.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 left the game
 [05Dec2024 12:28:04.314] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/599, l='ServerLevel[world]', x=-697.40, y=67.00, z=547.56] died, message: 'Toolsmith was slain by Zombie'
+[05Dec2024 12:29:00.832] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio0l0[/127.151.91.220:54657] logged in with entity id 7272 at (-676.6632010992256, 63.0, 681.2993418299061)
+[05Dec2024 12:29:00.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 joined the game
+[05Dec2024 12:29:11.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Teleported Alex115KLK to Antonio0l0]
+[05Dec2024 12:29:26.371] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/656, l='ServerLevel[world]', x=-688.56, y=62.77, z=715.40] died, message: 'Villager blew up'
+[05Dec2024 12:29:26.389] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/658, l='ServerLevel[world]', x=-682.53, y=61.00, z=717.55] died, message: 'Villager blew up'
+[05Dec2024 12:29:26.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has reached the goal [Strong or Careful]
+[05Dec2024 12:29:26.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK blew up
+[05Dec2024 12:29:26.430] [Server thread/INFO] [tombstone/]: The player Alex115KLK has successfully been saved
+[05Dec2024 12:29:28.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 has reached the goal [Strong or Careful]
+[05Dec2024 12:29:28.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 was doomed to fall
+[05Dec2024 12:29:28.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 has made the advancement [Your First Grave]
+[05Dec2024 12:29:28.424] [Server thread/INFO] [tombstone/]: The player Antonio0l0 has successfully been saved
+[05Dec2024 12:30:02.920] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-39, y=72, z=79}
+[05Dec2024 12:30:03.868] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-42, y=71, z=80}
+[05Dec2024 12:30:04.267] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-42, y=71, z=80}
+[05Dec2024 12:30:04.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 has reached the goal [Here They Come]
+[05Dec2024 12:32:52.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alex115KLK was kicked for floating too long!
+[05Dec2024 12:32:52.315] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alex115KLK lost connection: Flying is not enabled on this server
+[05Dec2024 12:32:52.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK left the game
+[05Dec2024 12:33:02.225] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alex115KLK[/127.107.136.212:51271] logged in with entity id 8598 at (-670.8440324748834, 65.25220334025373, 724.577677967968)
+[05Dec2024 12:33:02.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK joined the game
