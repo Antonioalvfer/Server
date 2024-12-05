@@ -70,3 +70,10 @@
 [05Dec2024 11:59:35.184] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alex115KLK[/127.107.136.212:53755] logged in with entity id 357 at (-836.8261486497213, 75.0, 592.0117456044815)
 [05Dec2024 11:59:35.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK joined the game
 [05Dec2024 11:59:37.929] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2774ms or 55 ticks behind
+[05Dec2024 12:09:28.120] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/657, l='ServerLevel[world]', x=-685.60, y=63.92, z=717.53] died, message: 'Villager blew up'
+[05Dec2024 12:09:45.861] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/659, l='ServerLevel[world]', x=-687.18, y=62.00, z=714.19] died, message: 'Villager burned to death'
+[05Dec2024 12:17:04.427] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio0l0[/127.151.91.220:52141] logged in with entity id 4853 at (-676.6632010992256, 63.0, 681.2993418299061)
+[05Dec2024 12:17:04.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 joined the game
+[05Dec2024 12:17:04.901] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio0l0 lost connection: Disconnected
+[05Dec2024 12:17:04.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 left the game
+[05Dec2024 12:17:58.567] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5cd2e7ad[id=<null>,name=Antonio0l0,properties={},legacy=false] (/127.151.91.220:57235) lost connection: Disconnected
