@@ -23,6 +23,7 @@
       "minecraft:birch_forest": "2024-12-04 22:29:35 +0000",
       "minecraft:beach": "2024-12-04 22:28:58 +0000",
       "minecraft:river": "2024-12-04 22:29:09 +0000",
+      "minecraft:dripstone_caves": "2024-12-05 00:11:16 +0000",
       "minecraft:forest": "2024-12-04 22:14:57 +0000",
       "minecraft:jungle": "2024-12-04 22:14:50 +0000",
       "minecraft:ocean": "2024-12-04 22:43:12 +0000",
@@ -1139,7 +1140,8 @@
       "minecraft:creeper": "2024-12-04 23:16:37 +0000",
       "minecraft:enderman": "2024-12-04 22:46:33 +0000",
       "minecraft:zombie": "2024-12-04 22:27:59 +0000",
-      "minecraft:drowned": "2024-12-04 23:21:21 +0000"
+      "minecraft:drowned": "2024-12-04 23:21:21 +0000",
+      "minecraft:zombie_villager": "2024-12-05 00:09:26 +0000"
     },
     "done": false
   },
@@ -1936,6 +1938,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-05 00:14:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-04 23:30:23 +0000"
@@ -2080,6 +2088,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-05 00:14:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_smooth_stone": {
     "criteria": {
       "has_item": "2024-12-04 23:32:13 +0000"
@@ -2200,6 +2214,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-05 00:14:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2024-12-05 00:02:27 +0000"
@@ -2233,6 +2253,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-04 23:00:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2024-12-05 00:14:25 +0000"
     },
     "done": true
   },
@@ -2452,6 +2478,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2024-12-05 00:14:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2024-12-04 23:30:23 +0000"
@@ -2473,6 +2505,12 @@
   "securitycraft:recipes/transportation/bamboo_security_sea_raft": {
     "criteria": {
       "has_keypad_chest": "2024-12-04 23:37:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-05 00:14:25 +0000"
     },
     "done": true
   },
@@ -2572,6 +2610,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2024-12-05 00:14:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/keypad_item": {
     "criteria": {
       "has_the_recipe": "2024-12-04 23:32:28 +0000"
@@ -2587,6 +2631,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2024-12-04 23:13:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-05 00:14:25 +0000"
     },
     "done": true
   },
@@ -2659,6 +2709,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2024-12-05 00:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2024-12-05 00:14:25 +0000"
     },
     "done": true
   },
@@ -2905,6 +2961,12 @@
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-04 23:30:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-05 00:14:25 +0000"
     },
     "done": true
   },
