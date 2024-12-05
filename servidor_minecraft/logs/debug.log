@@ -2359,3 +2359,8 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05Dec2024 13:08:56.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 has reached the goal [Bone Crusher]
 [05Dec2024 13:09:05.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Dec2024 13:09:05.393] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 13:10:03.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 has made the advancement [Take Aim]
+[05Dec2024 13:14:05.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 13:14:05.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 13:19:05.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 13:19:05.391] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

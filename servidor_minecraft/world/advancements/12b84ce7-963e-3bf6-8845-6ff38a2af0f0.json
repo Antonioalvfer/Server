@@ -601,6 +601,7 @@
       "minecraft:vindicator": "2024-12-04 23:58:46 +0000",
       "minecraft:spider": "2024-12-04 22:49:56 +0000",
       "minecraft:creeper": "2024-12-04 23:17:03 +0000",
+      "minecraft:witch": "2024-12-05 13:09:42 +0000",
       "minecraft:enderman": "2024-12-05 00:45:46 +0000",
       "minecraft:zombie": "2024-12-04 22:25:11 +0000"
     },
@@ -3317,6 +3318,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-05 13:14:31 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2024-12-05 12:59:53 +0000"
@@ -3335,6 +3342,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-05 13:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-05 13:14:31 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2024-12-05 12:30:04 +0000"
@@ -3347,9 +3366,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-05 13:14:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-05 12:55:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-05 13:14:31 +0000"
     },
     "done": true
   },
@@ -3374,6 +3405,12 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2024-12-05 12:48:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-05 13:14:31 +0000"
     },
     "done": true
   },
