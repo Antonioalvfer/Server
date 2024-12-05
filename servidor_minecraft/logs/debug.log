@@ -5456,3 +5456,10 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [05Dec2024 00:26:53.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Dec2024 00:31:53.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Dec2024 00:31:53.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 00:33:18.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Teleported N1L0X97 to Alex115KLK]
+[05Dec2024 00:35:07.109] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-664, y=65, z=710} BlockPos{x=-664, y=65, z=711}
+[05Dec2024 00:36:53.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 00:36:53.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 00:38:45.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-685, y=65, z=712} BlockPos{x=-686, y=65, z=713}
+[05Dec2024 00:41:53.234] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 00:41:53.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

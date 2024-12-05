@@ -209,3 +209,6 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
 [05Dec2024 00:17:01.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Hot Stuff]
 [05Dec2024 00:20:58.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <N1L0X97> [name:"Muerte 01:12:49 12-05-2024", x:-527, y:8, z:431, dim:minecraft:overworld]
+[05Dec2024 00:33:18.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Teleported N1L0X97 to Alex115KLK]
+[05Dec2024 00:35:07.109] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-664, y=65, z=710} BlockPos{x=-664, y=65, z=711}
+[05Dec2024 00:38:45.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-685, y=65, z=712} BlockPos{x=-686, y=65, z=713}

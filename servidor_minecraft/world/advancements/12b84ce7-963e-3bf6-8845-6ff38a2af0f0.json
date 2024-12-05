@@ -414,6 +414,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_slab_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2024-12-05 00:35:15 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/bouncing_betty": {
     "criteria": {
       "has_iron": "2024-12-04 22:32:21 +0000"
@@ -531,6 +537,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-12-04 22:22:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/retinal_scanner": {
+    "criteria": {
+      "has_stone": "2024-12-05 00:35:15 +0000"
     },
     "done": true
   },
@@ -780,6 +792,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_wall": {
+    "criteria": {
+      "has_block": "2024-12-05 00:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2024-12-04 22:49:56 +0000"
@@ -885,6 +903,18 @@
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-04 23:39:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2024-12-05 00:33:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_stairs": {
+    "criteria": {
+      "has_block": "2024-12-05 00:35:15 +0000"
     },
     "done": true
   },
@@ -1129,6 +1159,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_stairs_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2024-12-05 00:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2024-12-04 23:38:45 +0000"
@@ -1219,6 +1255,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-05 00:33:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2024-12-04 23:38:45 +0000"
@@ -1264,6 +1306,12 @@
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-04 23:40:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-05 00:33:13 +0000"
     },
     "done": true
   },
@@ -1771,6 +1819,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_wall_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2024-12-05 00:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-04 22:42:38 +0000"
@@ -1903,6 +1957,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_stone": {
+    "criteria": {
+      "has_item": "2024-12-05 00:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-04 22:31:37 +0000"
@@ -1930,6 +1990,12 @@
   "securitycraft:recipes/building_blocks/reinforced_black_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-04 23:39:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-05 00:34:34 +0000"
     },
     "done": true
   },
@@ -2395,6 +2461,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/keycard_reader": {
+    "criteria": {
+      "has_stone": "2024-12-05 00:35:15 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_andesite": {
     "criteria": {
       "has_cobblestone": "2024-12-04 22:22:23 +0000"
@@ -2434,6 +2506,12 @@
   "ironchest:recipes/decorations/chests/vanilla_iron_chest": {
     "criteria": {
       "has_iron_ingot": "2024-12-04 22:32:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_lever": {
+    "criteria": {
+      "has_cobble": "2024-12-05 00:35:15 +0000"
     },
     "done": true
   },
@@ -2572,6 +2650,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-04 22:28:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_slab": {
+    "criteria": {
+      "has_block": "2024-12-05 00:35:15 +0000"
     },
     "done": true
   },
@@ -2791,6 +2875,7 @@
     "criteria": {
       "cooked_mutton": "2024-12-04 22:30:00 +0000",
       "cooked_beef": "2024-12-04 23:15:05 +0000",
+      "bread": "2024-12-05 00:37:11 +0000",
       "cooked_chicken": "2024-12-05 00:13:45 +0000"
     },
     "done": false
@@ -3008,6 +3093,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-04 22:22:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/inventory_scanner": {
+    "criteria": {
+      "has_stone": "2024-12-05 00:35:15 +0000"
     },
     "done": true
   },
