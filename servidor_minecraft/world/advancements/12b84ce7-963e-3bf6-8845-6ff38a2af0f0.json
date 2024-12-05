@@ -877,6 +877,7 @@
       "cooked_mutton": "2024-12-04 22:30:00 +0000",
       "cooked_beef": "2024-12-04 23:15:05 +0000",
       "bread": "2024-12-05 00:37:11 +0000",
+      "golden_apple": "2024-12-05 13:29:01 +0000",
       "cooked_chicken": "2024-12-05 00:13:45 +0000"
     },
     "done": false
@@ -3411,6 +3412,12 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2024-12-05 13:14:31 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "steal_crystal": "2024-12-05 13:28:44 +0000"
     },
     "done": true
   },
