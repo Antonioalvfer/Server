@@ -5229,3 +5229,20 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Dec2024 23:59:28.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has completed the challenge [Hero of the Village]
 [04Dec2024 23:59:28.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 has completed the challenge [Hero of the Village]
 [04Dec2024 23:59:28.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 has completed the challenge [Hero of the Village]
+[05Dec2024 00:01:37.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set own game mode to Creative Mode]
+[05Dec2024 00:01:49.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 00:01:49.830] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 00:02:02.198] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-742, y=60, z=529} BlockPos{x=-741, y=59, z=529}
+[05Dec2024 00:03:09.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 has reached the goal [Strong or Careful]
+[05Dec2024 00:03:09.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 blew up
+[05Dec2024 00:03:09.321] [Server thread/DEBUG] [tombstone/]: A new grave of the player N1L0X97 was created at position [x:-704, y:63, z:518, dim:minecraft:overworld]
+[05Dec2024 00:03:09.334] [Server thread/INFO] [tombstone/]: The player N1L0X97 has successfully been saved
+[05Dec2024 00:03:10.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set own game mode to Survival Mode]
+[05Dec2024 00:03:10.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 has made the advancement [The Most Useful Key]
+[05Dec2024 00:03:23.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 has reached the goal [A Fast Comeback]
+[05Dec2024 00:03:26.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 has reached the goal [Here They Come]
+[05Dec2024 00:05:32.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 has made the advancement [A Strange Grave Dust]
+[05Dec2024 00:06:49.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 00:06:49.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 00:09:07.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 has made the advancement [Ice Bucket Challenge]
+[05Dec2024 00:09:39.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 has made the advancement [Hot Stuff]

@@ -748,7 +748,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-04 23:58:02 +0000",
       "minecraft:skeleton": "2024-12-04 22:27:41 +0000",
+      "minecraft:vindicator": "2024-12-04 23:58:44 +0000",
       "minecraft:spider": "2024-12-04 22:27:15 +0000",
       "minecraft:creeper": "2024-12-04 22:43:20 +0000",
       "minecraft:zombie": "2024-12-04 22:28:08 +0000"
@@ -1892,6 +1894,36 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-12-04 23:37:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-04 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-12-04 23:59:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-04 23:58:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-05 00:05:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-05 00:06:48 +0000"
     },
     "done": true
   },
