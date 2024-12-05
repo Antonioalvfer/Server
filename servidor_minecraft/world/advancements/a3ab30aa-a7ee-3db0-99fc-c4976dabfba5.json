@@ -1136,6 +1136,8 @@
     "criteria": {
       "minecraft:pillager": "2024-12-04 23:36:22 +0000",
       "minecraft:skeleton": "2024-12-04 22:29:55 +0000",
+      "minecraft:ghast": "2024-12-05 14:29:53 +0000",
+      "minecraft:magma_cube": "2024-12-05 14:28:04 +0000",
       "minecraft:spider": "2024-12-04 22:32:10 +0000",
       "minecraft:creeper": "2024-12-04 23:16:37 +0000",
       "minecraft:enderman": "2024-12-04 22:46:33 +0000",
@@ -3155,9 +3157,16 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2024-12-05 14:26:58 +0000",
       "minecraft:warped_forest": "2024-12-05 14:24:28 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-05 14:34:16 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
@@ -3180,6 +3189,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-05 14:24:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-05 14:32:00 +0000"
     },
     "done": true
   },
@@ -3231,6 +3246,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-05 14:32:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-05 14:24:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-05 14:34:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2024-12-05 14:27:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2024-12-05 14:27:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-12-05 14:20:36 +0000"
@@ -3243,9 +3288,27 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-05 14:34:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-05 14:27:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_hyphae": {
     "criteria": {
       "has_log": "2024-12-05 14:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-05 14:27:01 +0000"
     },
     "done": true
   },
@@ -3267,6 +3330,18 @@
     },
     "done": true
   },
+  "gobber2:gobber2_rod_nether": {
+    "criteria": {
+      "gobber2_rod_nether": "2024-12-05 14:26:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2024-12-05 14:24:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/deepslate_lapis_mine": {
     "criteria": {
       "has_mine": "2024-12-05 14:16:21 +0000"
@@ -3279,9 +3354,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-05 14:24:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-05 14:24:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-05 14:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2024-12-05 14:24:44 +0000"
     },
     "done": true
   },
@@ -3291,9 +3384,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-05 14:27:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-05 14:27:01 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/cobblestone_mine": {
     "criteria": {
       "has_mine": "2024-12-05 14:16:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2024-12-05 14:24:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-05 14:27:01 +0000"
     },
     "done": true
   },
@@ -3312,6 +3429,12 @@
   "securitycraft:recipes/building_blocks/furnace_mine": {
     "criteria": {
       "has_mine": "2024-12-05 14:16:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-05 14:27:01 +0000"
     },
     "done": true
   },
@@ -3357,6 +3480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-05 14:24:44 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/iron_gold_chest": {
     "criteria": {
       "has_gold_ingot": "2024-12-05 14:20:36 +0000"
@@ -3366,6 +3495,12 @@
   "securitycraft:recipes/building_blocks/nether_gold_mine": {
     "criteria": {
       "has_mine": "2024-12-05 14:16:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2024-12-05 14:24:44 +0000"
     },
     "done": true
   },
@@ -3387,9 +3522,21 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-12-05 14:29:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_planks": {
     "criteria": {
       "has_logs": "2024-12-05 14:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2024-12-05 14:24:44 +0000"
     },
     "done": true
   },
@@ -3426,6 +3573,12 @@
   "securitycraft:recipes/building_blocks/quartz_mine": {
     "criteria": {
       "has_mine": "2024-12-05 14:16:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-05 14:26:22 +0000"
     },
     "done": true
   },
