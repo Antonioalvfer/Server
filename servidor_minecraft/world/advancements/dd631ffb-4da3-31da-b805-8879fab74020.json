@@ -3712,6 +3712,24 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-06 14:31:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/talk_grave_guardian": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 14:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2024-12-06 14:31:32 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2024-12-06 14:03:29 +0000"
