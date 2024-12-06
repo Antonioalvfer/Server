@@ -64,3 +64,5 @@
 [06Dec2024 12:06:05.444] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [06Dec2024 12:07:52.740] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alex115KLK[/127.107.136.212:38911] logged in with entity id 357 at (-763.1491507426836, 64.0, 522.3157408245055)
 [06Dec2024 12:07:52.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK joined the game
+[06Dec2024 12:51:15.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set own game mode to Creative Mode]
+[06Dec2024 12:53:09.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set own game mode to Survival Mode]
