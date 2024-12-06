@@ -3670,9 +3670,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/use_guard": {
+  "minecraft:husbandry/plant_seed": {
     "criteria": {
-      "coded_trigger": "2024-12-06 13:09:44 +0000"
+      "wheat": "2024-12-06 13:05:33 +0000"
     },
     "done": true
   },
@@ -3682,9 +3682,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "tombstone:adventure/use_guard": {
     "criteria": {
-      "wheat": "2024-12-06 13:05:33 +0000"
+      "coded_trigger": "2024-12-06 13:09:44 +0000"
     },
     "done": true
   },
