@@ -71,3 +71,5 @@
 [06Dec2024 13:09:44.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has reached the goal [Spectral Guardian]
 [06Dec2024 13:14:05.682] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-704, y=66, z=439} BlockPos{x=-705, y=64, z=439}
 [06Dec2024 13:14:05.727] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-704, y=66, z=439} BlockPos{x=-705, y=64, z=439}
+[06Dec2024 13:19:43.792] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alex115KLK lost connection: Disconnected
+[06Dec2024 13:19:43.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK left the game
