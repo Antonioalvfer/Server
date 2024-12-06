@@ -3700,6 +3700,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-06 14:47:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2024-12-06 14:22:06 +0000"
@@ -3709,6 +3715,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2024-12-06 14:22:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 14:53:20 +0000"
     },
     "done": true
   },
@@ -3729,6 +3741,12 @@
       "minecraft:cow": "2024-12-06 14:31:32 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-12-06 14:47:04 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
