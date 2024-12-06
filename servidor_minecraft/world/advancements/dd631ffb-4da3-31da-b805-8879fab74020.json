@@ -3703,6 +3703,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_medallion": {
+    "criteria": {
+      "gobber2_medallion": "2024-12-06 16:54:20 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_ingot": {
     "criteria": {
       "gobber2_ingot": "2024-12-06 15:40:44 +0000"
@@ -3790,6 +3796,12 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-06 15:46:16 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_bow_nether": {
+    "criteria": {
+      "gobber2_bow_nether": "2024-12-06 16:49:03 +0000"
     },
     "done": true
   },
@@ -3988,6 +4000,12 @@
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2024-12-06 16:20:12 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_medallion_hero": {
+    "criteria": {
+      "gobber2_medallion_hero": "2024-12-06 16:54:35 +0000"
     },
     "done": true
   },

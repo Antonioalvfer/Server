@@ -202,3 +202,14 @@
 [06Dec2024 16:47:48.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Teleported Alex115KLK to N1L0X97]
 [06Dec2024 16:47:56.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 tried to swim in lava
 [06Dec2024 16:47:56.522] [Server thread/INFO] [tombstone/]: The player N1L0X97 has successfully been saved
+[06Dec2024 16:49:03.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [An Even Better Bow]
+[06Dec2024 16:49:08.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 tried to swim in lava
+[06Dec2024 16:49:08.123] [Server thread/INFO] [tombstone/]: The player N1L0X97 has successfully been saved
+[06Dec2024 16:54:20.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [The Beginning of Something Magical]
+[06Dec2024 16:54:28.720] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-685, y=61, z=719} BlockPos{x=-685, y=61, z=718}
+[06Dec2024 16:54:28.774] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-685, y=61, z=719} BlockPos{x=-685, y=61, z=718}
+[06Dec2024 16:54:35.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Get the Best Deals]
+[06Dec2024 16:55:10.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alex115KLK moved too quickly! 8.443679801015946,0.4186640077748365,5.770110404328989
+[06Dec2024 16:56:20.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 has made the advancement [Hot Stuff]
+[06Dec2024 16:57:06.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Teleported Alex115KLK to N1L0X97]
+[06Dec2024 16:57:47.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [What a Deal!]
