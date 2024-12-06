@@ -166,3 +166,20 @@
 [06Dec2024 15:03:49.173] [Server thread/INFO] [tombstone/]: The player N1L0X97 has successfully been saved
 [06Dec2024 15:05:50.589] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "N1L0X97" tried to enter a passcode into "Keypad Door" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-654, y=64, z=697}] too quickly!
 [06Dec2024 15:13:30.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Enchanter]
+[06Dec2024 15:27:17.476] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio0l0[/127.151.91.220:47609] logged in with entity id 27656 at (-709.732726442531, 73.0, 629.7461353607771)
+[06Dec2024 15:27:17.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 joined the game
+[06Dec2024 15:27:17.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 has made the advancement [Christmas]
+[06Dec2024 15:27:17.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 has made the advancement [Mysterious Gift]
+[06Dec2024 15:27:17.869] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio0l0 lost connection: Disconnected
+[06Dec2024 15:27:17.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 left the game
+[06Dec2024 15:28:34.176] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio0l0[/127.151.91.220:39627] logged in with entity id 28078 at (-709.732726442531, 73.0, 629.7461353607771)
+[06Dec2024 15:28:34.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 joined the game
+[06Dec2024 15:28:35.213] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio0l0 lost connection: Disconnected
+[06Dec2024 15:28:35.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 left the game
+[06Dec2024 15:28:41.567] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio0l0[/127.151.91.220:60193] logged in with entity id 28248 at (-709.732726442531, 73.0, 629.7461353607771)
+[06Dec2024 15:28:41.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 joined the game
+[06Dec2024 15:28:41.975] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio0l0 lost connection: Disconnected
+[06Dec2024 15:28:41.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 left the game
+[06Dec2024 15:29:30.817] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio0l0[/127.151.91.220:53267] logged in with entity id 28557 at (-709.732726442531, 73.0, 629.7461353607771)
+[06Dec2024 15:29:30.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 joined the game
+[06Dec2024 15:30:28.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 has made the advancement [Magic Writing]
