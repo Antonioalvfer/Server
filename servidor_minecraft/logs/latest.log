@@ -189,3 +189,6 @@
 [06Dec2024 15:49:10.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [A Better Pickaxe]
 [06Dec2024 15:49:38.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [A Great Multi-Tool]
 [06Dec2024 15:54:42.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [A Better Blade]
+[06Dec2024 15:58:37.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [A Better Bow]
+[06Dec2024 16:05:28.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 has completed the challenge [Return to Sender]
+[06Dec2024 16:06:21.034] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-118, y=43, z=95} BlockPos{x=-117, y=43, z=94}

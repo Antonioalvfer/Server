@@ -1469,7 +1469,8 @@
       "cooked_porkchop": "2024-12-05 13:32:09 +0000",
       "cooked_beef": "2024-12-04 22:37:07 +0000",
       "beef": "2024-12-05 13:36:53 +0000",
-      "cooked_chicken": "2024-12-05 00:51:11 +0000"
+      "cooked_chicken": "2024-12-05 00:51:11 +0000",
+      "carrot": "2024-12-06 16:03:15 +0000"
     },
     "done": false
   },
@@ -3711,6 +3712,12 @@
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2024-12-06 15:22:59 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_bow": {
+    "criteria": {
+      "gobber2_bow": "2024-12-06 15:58:37 +0000"
     },
     "done": true
   },
