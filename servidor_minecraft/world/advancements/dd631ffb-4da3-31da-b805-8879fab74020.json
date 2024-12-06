@@ -3727,6 +3727,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 17:20:05 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_sword": {
     "criteria": {
       "gobber2_sword": "2024-12-06 15:54:42 +0000"
@@ -3919,9 +3925,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-06 17:11:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-06 15:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-06 17:11:39 +0000"
     },
     "done": true
   },
@@ -4030,6 +4048,12 @@
   "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2024-12-06 15:46:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-06 17:11:39 +0000"
     },
     "done": true
   },

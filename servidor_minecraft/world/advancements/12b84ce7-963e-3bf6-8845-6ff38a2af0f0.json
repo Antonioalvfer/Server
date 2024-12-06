@@ -3473,6 +3473,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_hammer": {
+    "criteria": {
+      "gobber2_hammer": "2024-12-06 17:06:06 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_ingot": {
     "criteria": {
       "gobber2_ingot": "2024-12-06 16:33:19 +0000"
@@ -3611,6 +3617,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_rod": {
+    "criteria": {
+      "gobber2_rod": "2024-12-06 17:06:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-06 15:45:42 +0000"
@@ -3707,15 +3719,33 @@
     },
     "done": true
   },
+  "tombstone:adventure/talk_grave_guardian": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 17:09:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2024-12-06 15:56:58 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-06 17:07:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-06 15:56:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-06 17:07:16 +0000"
     },
     "done": true
   },
@@ -3857,6 +3887,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 17:13:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2024-12-06 16:58:13 +0000"
@@ -3887,6 +3923,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-12-06 17:13:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_candle": {
     "criteria": {
       "has_black_dye": "2024-12-06 16:58:13 +0000"
@@ -3902,6 +3944,12 @@
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2024-12-06 15:30:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-06 17:07:16 +0000"
     },
     "done": true
   },
