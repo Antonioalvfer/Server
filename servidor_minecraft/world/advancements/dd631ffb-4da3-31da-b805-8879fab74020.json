@@ -3690,6 +3690,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-12-06 15:46:16 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_hammer": {
     "criteria": {
       "gobber2_hammer": "2024-12-06 15:44:26 +0000"
@@ -3705,6 +3711,18 @@
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2024-12-06 15:22:59 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_sword": {
+    "criteria": {
+      "gobber2_sword": "2024-12-06 15:54:42 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_pickaxe": {
+    "criteria": {
+      "gobber2_pickaxe": "2024-12-06 15:49:10 +0000"
     },
     "done": true
   },
@@ -3726,6 +3744,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-06 15:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-12-06 15:46:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
     "criteria": {
       "has_pitcher_plant": "2024-12-06 14:29:17 +0000"
@@ -3744,9 +3774,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-06 15:46:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2024-12-06 15:13:30 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_rod": {
+    "criteria": {
+      "gobber2_rod": "2024-12-06 15:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-12-06 15:46:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-12-06 15:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-12-06 15:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-12-06 15:46:16 +0000"
     },
     "done": true
   },
@@ -3780,6 +3846,18 @@
     },
     "done": true
   },
+  "gobber2:gobber2_paxel": {
+    "criteria": {
+      "gobber2_paxel": "2024-12-06 15:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-06 15:46:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2024-12-06 14:31:32 +0000"
@@ -3792,6 +3870,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-06 15:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-06 15:46:16 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_glob": {
     "criteria": {
       "gobber2_glob": "2024-12-06 15:39:59 +0000"
@@ -3801,6 +3891,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-06 15:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-06 15:46:16 +0000"
     },
     "done": true
   },
@@ -3828,6 +3924,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-06 15:46:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2024-12-06 14:03:29 +0000"
@@ -3840,9 +3942,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-12-06 15:46:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2024-12-06 15:40:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-12-06 15:46:16 +0000"
     },
     "done": true
   },

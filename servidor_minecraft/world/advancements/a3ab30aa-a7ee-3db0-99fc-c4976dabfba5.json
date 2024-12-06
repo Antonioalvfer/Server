@@ -3719,6 +3719,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-06 15:55:25 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_hammer": {
+    "criteria": {
+      "gobber2_hammer": "2024-12-06 15:47:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2024-12-06 15:51:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-06 14:53:54 +0000"
@@ -3749,6 +3767,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-12-06 15:50:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
     "criteria": {
       "has_book": "2024-12-06 14:26:00 +0000"
@@ -3776,6 +3800,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-12-06 14:26:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-12-06 15:50:59 +0000"
     },
     "done": true
   },
@@ -3848,6 +3878,24 @@
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2024-12-06 14:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2024-12-06 15:51:10 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_glob": {
+    "criteria": {
+      "gobber2_glob": "2024-12-06 15:46:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-12-06 15:50:03 +0000"
     },
     "done": true
   },
@@ -3944,6 +3992,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2024-12-06 15:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-12-06 15:50:59 +0000"
     },
     "done": true
   },
