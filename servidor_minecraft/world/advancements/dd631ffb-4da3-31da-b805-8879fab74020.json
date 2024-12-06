@@ -3690,6 +3690,18 @@
     },
     "done": true
   },
+  "gobber2:gobber2_hammer": {
+    "criteria": {
+      "gobber2_hammer": "2024-12-06 15:44:26 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ingot": {
+    "criteria": {
+      "gobber2_ingot": "2024-12-06 15:40:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2024-12-06 15:22:59 +0000"
@@ -3780,6 +3792,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_glob": {
+    "criteria": {
+      "gobber2_glob": "2024-12-06 15:39:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-06 15:22:59 +0000"
@@ -3819,6 +3837,12 @@
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2024-12-06 14:24:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-06 15:40:44 +0000"
     },
     "done": true
   },
