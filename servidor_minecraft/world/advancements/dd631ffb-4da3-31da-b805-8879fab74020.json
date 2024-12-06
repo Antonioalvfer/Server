@@ -3775,6 +3775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-06 16:06:54 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2024-12-06 14:22:06 +0000"
@@ -3946,6 +3952,12 @@
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2024-12-06 14:24:55 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_glob_nether": {
+    "criteria": {
+      "gobber2_glob_nether": "2024-12-06 16:14:33 +0000"
     },
     "done": true
   },
