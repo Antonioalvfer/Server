@@ -157,3 +157,11 @@
 [06Dec2024 14:42:24.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Teleported Alex115KLK to N1L0X97]
 [06Dec2024 14:53:17.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 has made the advancement [Those Were the Days]
 [06Dec2024 14:53:20.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Mutual Aid]
+[06Dec2024 14:56:40.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 was slain by Zombified Piglin
+[06Dec2024 14:56:40.827] [Server thread/INFO] [tombstone/]: The player N1L0X97 has successfully been saved
+[06Dec2024 14:56:53.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 has reached the goal [Chain Death]
+[06Dec2024 14:56:53.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 was slain by Piglin Brute
+[06Dec2024 14:56:53.563] [Server thread/INFO] [tombstone/]: The player N1L0X97 has successfully been saved
+[06Dec2024 15:03:49.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 was slain by Zombified Piglin
+[06Dec2024 15:03:49.173] [Server thread/INFO] [tombstone/]: The player N1L0X97 has successfully been saved
+[06Dec2024 15:05:50.589] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "N1L0X97" tried to enter a passcode into "Keypad Door" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-654, y=64, z=697}] too quickly!

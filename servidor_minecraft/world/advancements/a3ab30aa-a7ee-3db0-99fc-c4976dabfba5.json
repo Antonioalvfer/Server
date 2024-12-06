@@ -1139,7 +1139,9 @@
       "minecraft:ghast": "2024-12-05 14:29:53 +0000",
       "minecraft:magma_cube": "2024-12-05 14:28:04 +0000",
       "minecraft:spider": "2024-12-04 22:32:10 +0000",
+      "minecraft:piglin_brute": "2024-12-06 14:57:14 +0000",
       "minecraft:creeper": "2024-12-04 23:16:37 +0000",
+      "minecraft:zombified_piglin": "2024-12-06 14:58:26 +0000",
       "minecraft:piglin": "2024-12-05 14:44:25 +0000",
       "minecraft:enderman": "2024-12-04 22:46:33 +0000",
       "minecraft:zombie": "2024-12-04 22:27:59 +0000",
@@ -3710,9 +3712,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-06 14:57:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-06 14:53:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-06 14:57:50 +0000"
     },
     "done": true
   },
@@ -3794,6 +3808,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 14:56:53 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_receptacle_of_familiar": "2024-12-06 14:27:23 +0000"
@@ -3821,6 +3841,12 @@
   "tombstone:adventure/talk_grave_guardian": {
     "criteria": {
       "coded_trigger": "2024-12-06 14:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-06 14:59:22 +0000"
     },
     "done": true
   },
@@ -3854,6 +3880,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-06 14:59:22 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/christmas": {
     "criteria": {
       "coded_trigger": "2024-12-06 14:21:54 +0000"
@@ -3872,6 +3904,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-06 15:01:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2024-12-06 14:53:17 +0000"
@@ -3881,6 +3919,18 @@
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-06 14:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-06 15:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-06 14:59:22 +0000"
     },
     "done": true
   },
