@@ -165,3 +165,4 @@
 [06Dec2024 15:03:49.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 was slain by Zombified Piglin
 [06Dec2024 15:03:49.173] [Server thread/INFO] [tombstone/]: The player N1L0X97 has successfully been saved
 [06Dec2024 15:05:50.589] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "N1L0X97" tried to enter a passcode into "Keypad Door" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-654, y=64, z=697}] too quickly!
+[06Dec2024 15:13:30.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Enchanter]
