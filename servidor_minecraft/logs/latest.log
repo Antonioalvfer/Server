@@ -243,3 +243,12 @@
 [06Dec2024 17:28:16.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set own game mode to Survival Mode]
 [06Dec2024 17:29:00.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 was shot by Alex115KLK
 [06Dec2024 17:29:00.707] [Server thread/INFO] [tombstone/]: The player N1L0X97 has successfully been saved
+[06Dec2024 17:33:08.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 was slain by Zombie
+[06Dec2024 17:33:08.557] [Server thread/INFO] [tombstone/]: The player N1L0X97 has successfully been saved
+[06Dec2024 17:36:40.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Teleported Alex115KLK to N1L0X97]
+[06Dec2024 17:38:11.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Teleported Alex115KLK to N1L0X97]
+[06Dec2024 17:39:16.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alex115KLK moved wrongly!
+[06Dec2024 17:39:56.155] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alex115KLK lost connection: Disconnected
+[06Dec2024 17:39:56.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK left the game
+[06Dec2024 17:39:58.653] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: N1L0X97 lost connection: Disconnected
+[06Dec2024 17:39:58.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 left the game
