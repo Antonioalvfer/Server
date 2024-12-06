@@ -3793,6 +3793,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_armor": {
+    "criteria": {
+      "gobber2_helmet": "2024-12-06 16:43:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2024-12-06 15:13:30 +0000"
@@ -3961,6 +3967,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-06 16:45:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2024-12-06 16:20:12 +0000"
@@ -3976,6 +3988,12 @@
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2024-12-06 16:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2024-12-06 16:38:30 +0000"
     },
     "done": true
   },
