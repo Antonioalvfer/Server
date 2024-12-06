@@ -72,3 +72,15 @@
 [06Dec2024 13:55:47.431] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alex115KLK[/127.107.136.212:41379] logged in with entity id 352 at (-762.5, 64.0, 522.5)
 [06Dec2024 13:55:47.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK joined the game
 [06Dec2024 13:55:50.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2807ms or 56 ticks behind
+[06Dec2024 14:21:54.812] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: N1L0X97[/127.32.182.78:57223] logged in with entity id 6433 at (-854.7810097237042, 76.0, 601.1751376615774)
+[06Dec2024 14:21:54.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 joined the game
+[06Dec2024 14:21:54.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 has made the advancement [Christmas]
+[06Dec2024 14:21:54.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 has made the advancement [Mysterious Gift]
+[06Dec2024 14:27:21.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 has reached the goal [Gift Delivery]
+[06Dec2024 14:27:23.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 has made the advancement [Your First Receptacle]
+[06Dec2024 14:27:29.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 has reached the goal [Treasure from the Past]
+[06Dec2024 14:27:29.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 has made the advancement [Where Is The Stone Pen?]
+[06Dec2024 14:29:17.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 has reached the goal [Bone Crusher]
+[06Dec2024 14:31:32.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [The Parrots and the Bats]
+[06Dec2024 14:35:05.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Strange Encounter]
+[06Dec2024 14:35:16.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 has made the advancement [Strange Encounter]
