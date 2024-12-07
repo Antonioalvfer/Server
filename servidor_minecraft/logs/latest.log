@@ -13,3 +13,11 @@
 [07Dec2024 00:35:44.670] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-62, y=20, z=159} BlockPos{x=-62, y=20, z=157}
 [07Dec2024 00:38:53.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set own game mode to Creative Mode]
 [07Dec2024 00:40:22.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has completed the challenge [Hot Tourist Destinations]
+[07Dec2024 00:49:31.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set own game mode to Survival Mode]
+[07Dec2024 00:52:10.732] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-179, y=20, z=80} BlockPos{x=-181, y=20, z=82}
+[07Dec2024 00:53:45.482] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-142, y=18, z=32} BlockPos{x=-142, y=18, z=34}
+[07Dec2024 00:53:46.681] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-141, y=18, z=37} BlockPos{x=-142, y=18, z=36}
+[07Dec2024 00:54:02.865] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-121, y=17, z=35} BlockPos{x=-122, y=17, z=34}
+[07Dec2024 00:54:02.933] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-121, y=17, z=35} BlockPos{x=-122, y=17, z=34}
+[07Dec2024 00:54:02.965] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-121, y=17, z=35} BlockPos{x=-122, y=17, z=34}
+[07Dec2024 00:54:03.033] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-121, y=17, z=35} BlockPos{x=-122, y=17, z=34}
