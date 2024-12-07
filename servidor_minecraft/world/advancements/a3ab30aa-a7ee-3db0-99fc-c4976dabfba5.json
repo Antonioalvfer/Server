@@ -27,6 +27,7 @@
       "minecraft:forest": "2024-12-04 22:14:57 +0000",
       "minecraft:jungle": "2024-12-04 22:14:50 +0000",
       "minecraft:ocean": "2024-12-04 22:43:12 +0000",
+      "minecraft:flower_forest": "2024-12-07 15:03:41 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-04 22:29:25 +0000",
       "minecraft:meadow": "2024-12-04 23:05:59 +0000",
       "minecraft:savanna": "2024-12-04 23:01:42 +0000",
@@ -4193,9 +4194,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2024-12-07 14:59:45 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_ring_haste": {
     "criteria": {
       "gobber2_ring_haste": "2024-12-07 14:43:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2024-12-07 15:02:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2024-12-07 15:02:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2024-12-07 14:59:45 +0000"
     },
     "done": true
   },

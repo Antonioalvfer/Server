@@ -758,6 +758,7 @@
       "minecraft:pillager": "2024-12-04 23:58:02 +0000",
       "minecraft:skeleton": "2024-12-04 22:27:41 +0000",
       "minecraft:vindicator": "2024-12-04 23:58:44 +0000",
+      "minecraft:magma_cube": "2024-12-07 14:58:59 +0000",
       "minecraft:spider": "2024-12-04 22:27:15 +0000",
       "minecraft:piglin_brute": "2024-12-05 18:43:58 +0000",
       "minecraft:creeper": "2024-12-04 22:43:20 +0000",
@@ -4370,6 +4371,18 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2024-12-07 02:00:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-07 15:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-12-07 15:01:21 +0000"
     },
     "done": true
   },
