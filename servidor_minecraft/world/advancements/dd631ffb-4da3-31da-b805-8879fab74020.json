@@ -766,6 +766,7 @@
       "minecraft:spider": "2024-12-04 22:27:15 +0000",
       "minecraft:piglin_brute": "2024-12-05 18:43:58 +0000",
       "minecraft:creeper": "2024-12-04 22:43:20 +0000",
+      "minecraft:wither": "2024-12-07 16:13:24 +0000",
       "minecraft:slime": "2024-12-07 01:11:21 +0000",
       "minecraft:phantom": "2024-12-06 23:49:24 +0000",
       "minecraft:zombified_piglin": "2024-12-06 14:57:06 +0000",
@@ -4408,6 +4409,18 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2024-12-07 16:13:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-12-07 16:13:42 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_soul_black_smith": {
     "criteria": {
       "blacksmith": "2024-12-07 15:23:42 +0000"
@@ -4432,9 +4445,21 @@
     },
     "done": true
   },
+  "gobber2:gobber2_ring_curing": {
+    "criteria": {
+      "gobber2_ring_curing": "2024-12-07 16:10:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2024-12-07 15:18:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/codebreaker": {
+    "criteria": {
+      "has_nether_star": "2024-12-07 16:13:42 +0000"
     },
     "done": true
   },
@@ -4444,9 +4469,21 @@
     },
     "done": true
   },
+  "gobber2:gobber2_armor_nether": {
+    "criteria": {
+      "gobber2_helmet_nether": "2024-12-07 16:16:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
     "criteria": {
       "has_rib_armor_trim_smithing_template": "2024-12-07 15:20:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-12-07 16:12:55 +0000"
     },
     "done": true
   },
