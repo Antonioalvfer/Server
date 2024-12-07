@@ -215,3 +215,5 @@
 [07Dec2024 14:01:07.361] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [07Dec2024 14:02:12.678] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio0l0[/127.151.91.220:46657] logged in with entity id 9780 at (-672.5607347007709, 64.0, 717.6093327598858)
 [07Dec2024 14:02:12.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 joined the game
+[07Dec2024 14:22:15.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 has made the advancement [Gobber Goes Nether]
+[07Dec2024 14:25:31.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 has made the advancement [A Stronger Material]

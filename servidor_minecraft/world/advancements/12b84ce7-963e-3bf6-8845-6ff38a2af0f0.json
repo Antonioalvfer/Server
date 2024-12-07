@@ -3971,5 +3971,35 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-07 14:26:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2024-12-07 14:27:08 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ingot_nether": {
+    "criteria": {
+      "gobber2_ingot_nether": "2024-12-07 14:25:31 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-07 14:26:35 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_glob_nether": {
+    "criteria": {
+      "gobber2_glob_nether": "2024-12-07 14:22:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
