@@ -202,3 +202,16 @@
 [07Dec2024 13:52:19.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
 [07Dec2024 13:52:19.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /waypoint (create|delete)
 [07Dec2024 13:52:19.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /wp -> waypoint
+[07Dec2024 13:59:00.389] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio0l0[/127.151.91.220:51787] logged in with entity id 9767 at (-672.5607347007709, 64.0, 717.6093327598858)
+[07Dec2024 13:59:00.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 joined the game
+[07Dec2024 13:59:01.261] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio0l0 lost connection: Disconnected
+[07Dec2024 13:59:01.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 left the game
+[07Dec2024 13:59:01.290] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Dec2024 13:59:24.014] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3ee17683[id=<null>,name=Antonio0l0,properties={},legacy=false] (/127.151.91.220:57013) lost connection: Disconnected
+[07Dec2024 14:01:06.582] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio0l0[/127.151.91.220:33155] logged in with entity id 9773 at (-672.5607347007709, 64.0, 717.6093327598858)
+[07Dec2024 14:01:06.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 joined the game
+[07Dec2024 14:01:07.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio0l0 lost connection: Disconnected
+[07Dec2024 14:01:07.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 left the game
+[07Dec2024 14:01:07.361] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Dec2024 14:02:12.678] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Antonio0l0[/127.151.91.220:46657] logged in with entity id 9780 at (-672.5607347007709, 64.0, 717.6093327598858)
+[07Dec2024 14:02:12.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 joined the game
