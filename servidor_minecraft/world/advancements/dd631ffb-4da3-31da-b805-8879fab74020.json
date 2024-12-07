@@ -4384,6 +4384,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-07 15:49:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_logs": "2024-12-07 15:13:14 +0000"
@@ -4432,6 +4438,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-07 15:52:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
     "criteria": {
       "has_rib_armor_trim_smithing_template": "2024-12-07 15:20:52 +0000"
@@ -4441,6 +4453,18 @@
   "cataclysm:kill_monstrosity": {
     "criteria": {
       "netheritemonstrosity": "2024-12-07 15:27:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-07 15:49:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-12-07 15:52:41 +0000"
     },
     "done": true
   },
