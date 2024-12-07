@@ -81,3 +81,7 @@
 [07Dec2024 01:29:07.532] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48904, l='ServerLevel[world]', x=-877.53, y=68.00, z=-36.58] died, message: 'Villager was slain by Zombie'
 [07Dec2024 01:32:09.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set own game mode to Creative Mode]
 [07Dec2024 01:35:12.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set own game mode to Survival Mode]
+[07Dec2024 01:38:20.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set own game mode to Creative Mode]
+[07Dec2024 01:38:32.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set own game mode to Survival Mode]
+[07Dec2024 01:41:00.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [An Even Better Block Breaker]
+[07Dec2024 01:41:18.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Dig to Your Hearts Content]
