@@ -1690,3 +1690,16 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [07Dec2024 00:22:06.707] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07Dec2024 00:27:06.703] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Dec2024 00:27:06.711] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 00:27:58.267] [Worker-Main-49/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[07Dec2024 00:27:58.736] [Worker-Main-49/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[07Dec2024 00:30:20.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set own game mode to Creative Mode]
+[07Dec2024 00:31:05.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set own game mode to Survival Mode]
+[07Dec2024 00:31:47.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set own game mode to Creative Mode]
+[07Dec2024 00:32:06.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 00:32:06.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 00:33:38.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set own game mode to Survival Mode]
+[07Dec2024 00:35:12.923] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-89, y=20, z=155} BlockPos{x=-87, y=20, z=155}
+[07Dec2024 00:35:12.969] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-89, y=20, z=155} BlockPos{x=-87, y=20, z=155}
+[07Dec2024 00:35:44.670] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-62, y=20, z=159} BlockPos{x=-62, y=20, z=157}
+[07Dec2024 00:37:06.699] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 00:37:06.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
