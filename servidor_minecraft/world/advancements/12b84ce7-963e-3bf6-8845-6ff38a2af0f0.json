@@ -3977,9 +3977,21 @@
     },
     "done": true
   },
+  "gobber2:gobber2_pickaxe_nether": {
+    "criteria": {
+      "gobber2_pickaxe_nether": "2024-12-07 14:32:00 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2024-12-07 14:27:08 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ring_repair": {
+    "criteria": {
+      "gobber2_ring_repair": "2024-12-07 14:36:22 +0000"
     },
     "done": true
   },
