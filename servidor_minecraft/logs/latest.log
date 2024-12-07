@@ -317,3 +317,8 @@
 [07Dec2024 16:12:55.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 has made the advancement [Withering Heights]
 [07Dec2024 16:13:24.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has reached the goal [Strong Undead]
 [07Dec2024 16:16:57.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Weather the Worst the Nether can Muster]
+[07Dec2024 16:23:27.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set own game mode to Creative Mode]
+[07Dec2024 16:24:47.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: N1L0X97 lost connection: Disconnected
+[07Dec2024 16:24:47.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 left the game
+[07Dec2024 16:25:35.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set own game mode to Survival Mode]
+[07Dec2024 16:26:00.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has reached the goal [Fortuitous Militia]

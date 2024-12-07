@@ -759,6 +759,7 @@
       "minecraft:pillager": "2024-12-04 23:58:02 +0000",
       "minecraft:blaze": "2024-12-07 15:18:11 +0000",
       "minecraft:skeleton": "2024-12-04 22:27:41 +0000",
+      "minecraft:ravager": "2024-12-07 16:25:42 +0000",
       "minecraft:ghast": "2024-12-07 15:10:55 +0000",
       "minecraft:hoglin": "2024-12-07 15:24:20 +0000",
       "minecraft:vindicator": "2024-12-04 23:58:44 +0000",
@@ -768,11 +769,13 @@
       "minecraft:creeper": "2024-12-04 22:43:20 +0000",
       "minecraft:wither": "2024-12-07 16:13:24 +0000",
       "minecraft:slime": "2024-12-07 01:11:21 +0000",
+      "minecraft:evoker": "2024-12-07 16:25:54 +0000",
       "minecraft:phantom": "2024-12-06 23:49:24 +0000",
       "minecraft:zombified_piglin": "2024-12-06 14:57:06 +0000",
       "minecraft:witch": "2024-12-05 00:10:15 +0000",
       "minecraft:piglin": "2024-12-05 18:38:35 +0000",
       "minecraft:enderman": "2024-12-05 01:04:54 +0000",
+      "minecraft:vex": "2024-12-07 16:26:41 +0000",
       "minecraft:zombie": "2024-12-04 22:28:08 +0000"
     },
     "done": false
@@ -4412,6 +4415,12 @@
   "tombstone:adventure/strong_undead": {
     "criteria": {
       "coded_trigger": "2024-12-07 16:13:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2024-12-07 16:26:00 +0000"
     },
     "done": true
   },
