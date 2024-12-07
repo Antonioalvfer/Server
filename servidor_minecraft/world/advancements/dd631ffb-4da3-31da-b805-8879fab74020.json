@@ -760,6 +760,7 @@
       "minecraft:spider": "2024-12-04 22:27:15 +0000",
       "minecraft:piglin_brute": "2024-12-05 18:43:58 +0000",
       "minecraft:creeper": "2024-12-04 22:43:20 +0000",
+      "minecraft:slime": "2024-12-07 01:11:21 +0000",
       "minecraft:phantom": "2024-12-06 23:49:24 +0000",
       "minecraft:zombified_piglin": "2024-12-06 14:57:06 +0000",
       "minecraft:witch": "2024-12-05 00:10:15 +0000",
@@ -4095,9 +4096,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-07 01:11:26 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ring_repair": {
+    "criteria": {
+      "gobber2_ring_repair": "2024-12-07 01:07:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-07 00:08:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-07 01:11:26 +0000"
     },
     "done": true
   },
@@ -4110,6 +4129,18 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-07 00:08:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-07 01:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-07 01:11:26 +0000"
     },
     "done": true
   },
