@@ -1289,6 +1289,7 @@
       "cooked_mutton": "2024-12-04 22:30:56 +0000",
       "cooked_beef": "2024-12-05 00:57:29 +0000",
       "apple": "2024-12-05 00:17:12 +0000",
+      "spider_eye": "2024-12-07 15:40:54 +0000",
       "bread": "2024-12-04 23:56:39 +0000",
       "cooked_chicken": "2024-12-05 00:49:34 +0000"
     },
@@ -4213,6 +4214,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-07 15:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-07 15:41:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
     "criteria": {
       "has_polished_blackstone": "2024-12-07 15:30:25 +0000"
@@ -4246,6 +4259,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
       "has_polished_blackstone": "2024-12-07 15:30:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-07 15:45:49 +0000"
     },
     "done": true
   },
@@ -4315,9 +4334,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-07 15:44:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
     "criteria": {
       "has_nether_brick_slab": "2024-12-07 15:28:02 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_medallion_hero": {
+    "criteria": {
+      "gobber2_medallion_hero": "2024-12-07 15:43:24 +0000"
     },
     "done": true
   },
@@ -4348,6 +4379,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-12-07 15:30:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-07 15:41:32 +0000"
     },
     "done": true
   },

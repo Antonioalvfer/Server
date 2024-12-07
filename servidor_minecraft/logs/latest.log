@@ -284,3 +284,14 @@
 [07Dec2024 15:36:08.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Gave 500 experience points to N1L0X97]
 [07Dec2024 15:37:16.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 has made the advancement [Enchanter]
 [07Dec2024 15:38:03.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: N1L0X97 moved wrongly!
+[07Dec2024 15:40:48.371] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:mushroom_fields took 6183 ms
+[07Dec2024 15:40:48.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6161ms or 123 ticks behind
+[07Dec2024 15:40:54.602] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:mushroom_fields took 6201 ms
+[07Dec2024 15:40:54.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: N1L0X97 moved too quickly! -9.72408701891709,0.07242780368044066,-2.686188380535782
+[07Dec2024 15:40:54.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alex115KLK moved too quickly! 5.961591080956623,2.419999986886978,-8.298321384266842
+[07Dec2024 15:40:55.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 was shot by Skeleton
+[07Dec2024 15:40:55.961] [Server thread/INFO] [tombstone/]: The player N1L0X97 has successfully been saved
+[07Dec2024 15:43:24.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 has made the advancement [Get the Best Deals]
+[07Dec2024 15:43:28.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set own game mode to Creative Mode]
+[07Dec2024 15:45:49.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 has made the advancement [What a Deal!]
+[07Dec2024 15:47:24.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set own game mode to Survival Mode]
