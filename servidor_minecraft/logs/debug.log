@@ -2663,3 +2663,41 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [07Dec2024 15:07:16.350] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #cataclysm:berserker_spawn (minecraft:fortress) took 1 ms
 [07Dec2024 15:07:58.075] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Dec2024 15:07:58.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 15:11:53.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 was shot by Alex115KLK
+[07Dec2024 15:11:53.037] [Server thread/DEBUG] [tombstone/]: A new grave of the player Antonio0l0 was created at position [x:-488, y:72, z:881, dim:minecraft:the_nether]
+[07Dec2024 15:11:53.038] [Server thread/INFO] [tombstone/]: The player Antonio0l0 has successfully been saved
+[07Dec2024 15:12:11.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alex115KLK> t
+[07Dec2024 15:12:45.281] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-658, y=87, z=832} BlockPos{x=-660, y=87, z=829}
+[07Dec2024 15:12:58.069] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 15:12:58.075] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 15:13:21.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Teleported Antonio0l0 to N1L0X97]
+[07Dec2024 15:15:20.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [A Terrible Fortress]
+[07Dec2024 15:15:53.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Spooky Scary Skeleton]
+[07Dec2024 15:16:21.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 has made the advancement [A Better Blade]
+[07Dec2024 15:17:11.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Teleported Antonio0l0 to Alex115KLK]
+[07Dec2024 15:17:11.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 has made the advancement [A Terrible Fortress]
+[07Dec2024 15:17:58.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 15:17:58.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 15:18:16.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Into Fire]
+[07Dec2024 15:19:05.506] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-688, y=73, z=658} BlockPos{x=-688, y=73, z=661}
+[07Dec2024 15:19:05.682] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-688, y=73, z=658} BlockPos{x=-688, y=74, z=659}
+[07Dec2024 15:19:05.730] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-688, y=74, z=658} BlockPos{x=-688, y=74, z=659}
+[07Dec2024 15:19:05.758] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-688, y=74, z=657} BlockPos{x=-688, y=74, z=659}
+[07Dec2024 15:19:08.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Teleported Antonio0l0 to Alex115KLK]
+[07Dec2024 15:19:12.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 has made the advancement [Into Fire]
+[07Dec2024 15:20:48.832] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Antonio0l0 lost connection: Disconnected
+[07Dec2024 15:20:48.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 left the game
+[07Dec2024 15:21:48.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set own game mode to Creative Mode]
+[07Dec2024 15:22:58.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 15:22:58.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 15:23:15.108] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #cataclysm:eye_of_monstrous_located (cataclysm:soul_black_smith) took 4 ms
+[07Dec2024 15:23:29.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Teleported Alex115KLK to -959.500000, 97.716910, 0.500000]
+[07Dec2024 15:23:42.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [The Soul Forge]
+[07Dec2024 15:24:02.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set own game mode to Survival Mode]
+[07Dec2024 15:24:11.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 has made the advancement [The Soul Forge]
+[07Dec2024 15:27:23.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has completed the challenge [The broken Nether's warmachine]
+[07Dec2024 15:27:58.042] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 15:27:58.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 15:29:13.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 was slain by Alex115KLK
+[07Dec2024 15:29:13.278] [Server thread/DEBUG] [tombstone/]: A new grave of the player N1L0X97 was created at position [x:-985, y:50, z:-2, dim:minecraft:the_nether]
+[07Dec2024 15:29:13.279] [Server thread/INFO] [tombstone/]: The player N1L0X97 has successfully been saved

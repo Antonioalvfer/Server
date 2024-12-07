@@ -3426,6 +3426,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-07 15:24:11 +0000",
       "minecraft:nether_wastes": "2024-12-05 14:26:58 +0000",
       "minecraft:soul_sand_valley": "2024-12-06 14:45:44 +0000",
       "minecraft:warped_forest": "2024-12-05 14:24:28 +0000"
@@ -4194,15 +4195,39 @@
     },
     "done": true
   },
+  "gobber2:gobber2_ingot": {
+    "criteria": {
+      "gobber2_ingot": "2024-12-07 15:16:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
     "criteria": {
       "has_lapis_ore": "2024-12-07 14:59:45 +0000"
     },
     "done": true
   },
+  "gobber2:gobber2_sword": {
+    "criteria": {
+      "gobber2_sword": "2024-12-07 15:16:21 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_rod": {
+    "criteria": {
+      "gobber2_rod": "2024-12-07 15:16:23 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_ring_haste": {
     "criteria": {
       "gobber2_ring_haste": "2024-12-07 14:43:55 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2024-12-07 15:24:11 +0000"
     },
     "done": true
   },
