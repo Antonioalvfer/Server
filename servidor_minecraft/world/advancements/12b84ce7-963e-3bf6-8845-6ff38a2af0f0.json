@@ -604,6 +604,7 @@
       "minecraft:spider": "2024-12-04 22:49:56 +0000",
       "minecraft:creeper": "2024-12-04 23:17:03 +0000",
       "minecraft:witch": "2024-12-05 13:09:42 +0000",
+      "minecraft:piglin": "2024-12-07 14:51:41 +0000",
       "minecraft:enderman": "2024-12-05 00:45:46 +0000",
       "minecraft:zombie": "2024-12-04 22:25:11 +0000"
     },
@@ -3019,6 +3020,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2024-12-05 00:12:48 +0000",
+      "minecraft:soul_sand_valley": "2024-12-07 14:48:17 +0000",
       "minecraft:warped_forest": "2024-12-05 00:12:24 +0000"
     },
     "done": false
@@ -3971,6 +3973,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-07 14:51:54 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2024-12-07 14:26:52 +0000"
@@ -3995,9 +4003,21 @@
     },
     "done": true
   },
+  "gobber2:gobber2_ring_haste": {
+    "criteria": {
+      "gobber2_ring_haste": "2024-12-07 14:43:44 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_ingot_nether": {
     "criteria": {
       "gobber2_ingot_nether": "2024-12-07 14:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2024-12-07 14:47:57 +0000"
     },
     "done": true
   },
@@ -4007,9 +4027,27 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-07 14:57:34 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_glob_nether": {
     "criteria": {
       "gobber2_glob_nether": "2024-12-07 14:22:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-07 14:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2024-12-07 14:47:57 +0000"
     },
     "done": true
   },

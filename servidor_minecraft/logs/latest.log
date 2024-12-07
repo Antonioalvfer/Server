@@ -221,3 +221,11 @@
 [07Dec2024 14:35:40.038] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alex115KLK[/127.250.120.249:39481] logged in with entity id 23517 at (-754.0279407013974, 71.0, 591.9470628779162)
 [07Dec2024 14:35:40.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK joined the game
 [07Dec2024 14:36:22.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 has made the advancement [Better Than Mending]
+[07Dec2024 14:41:27.496] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: N1L0X97[/127.32.182.78:39001] logged in with entity id 25360 at (-781.5186710655904, 64.0, 583.0907480453003)
+[07Dec2024 14:41:27.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 joined the game
+[07Dec2024 14:43:44.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 has made the advancement [Dig to Your Hearts Content]
+[07Dec2024 14:43:55.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 has made the advancement [Dig to Your Hearts Content]
+[07Dec2024 14:56:40.309] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-174, y=70, z=968} BlockPos{x=-173, y=71, z=968}
+[07Dec2024 14:57:34.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 has made the advancement [Those Were the Days]
+[07Dec2024 14:58:31.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Antonio0l0 was slain by Piglin Brute
+[07Dec2024 14:58:31.661] [Server thread/INFO] [tombstone/]: The player Antonio0l0 has successfully been saved
